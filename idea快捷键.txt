@@ -1,0 +1,17 @@
+alt+enter（光标紧跟在类的后面） 导入包
+
+IDEA中恢复是Ctrl+Shit+Z
+
+ctrl+alt+o 包优化
+
+:Ctrl+Alt+L 格式化代码 
+
+ctrl+shift+shang 当前行向上
+
+alt+insert  getter setter方法
+
+ctrl+alt+b 定位到此方法
+
+alt +insert 实现类实现接口方法  ctrl+i
+
+ctrl+j 设置类注释
